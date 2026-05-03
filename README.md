@@ -168,7 +168,7 @@ sample of powerBI dashboard
 ## 📌 Author
 
 **Yahya Ramadhan**
-Data Science Student | Aspiring Data Analyst
+Data Science | Data Analyst
 
 ---
 
